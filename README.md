@@ -1,4 +1,5 @@
 <html>
+  <div align="center">
 <center>
 <img src="https://files.catbox.moe/dtnjjf.webp">
 <p>                            ᛝ hi im nepeta *or* kitty!! <img src="https://64.media.tumblr.com/905eeb53d2edf1b143be5af845708c4e/2b6109a88798b692-ce/s75x75_c1/99ae160e5721c992d70da0697649e9ae7e5744a9.gifv" width="35" height="35"></p>
@@ -10,4 +11,5 @@
   <img src="https://64.media.tumblr.com/aef9cebfa7b27dc5d53ab2a8f9444e4e/5d4940f1b38a4028-d3/s75x75_c1/b27f99d1c6db0ff542b770abade7648f3967ac1a.gifv">
 </center>
     <img src="https://64.media.tumblr.com/927c992ab3abb7a390d8c4ce7c12eceb/8c49db604b0f3002-b5/s100x200/4be5f9cf95ee416dd2f7e89dd3cea35274ae73da.pnj"> <img src="https://64.media.tumblr.com/eb23a0ff1bdf11fdec70fae72f395746/8c49db604b0f3002-15/s100x200/7d57d9779d363de2f51f914f5ff5088c10033456.gifv">
+  </div>
 </html>
